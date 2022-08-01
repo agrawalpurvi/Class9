@@ -1,0 +1,14 @@
+section{
+    position: relative;
+    background-color: rgb(107, 212, 212);
+    width:100%;
+    top:15%;
+    margin-top: 10px;
+
+}
+.s1{
+    background-color: blueviolet;
+}
+.s2{
+    background-color: blue;
+}
